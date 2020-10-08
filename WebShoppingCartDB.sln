@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WebShoppingCartDB", "WebShoppingCartDB.sqlproj", "{4F5B0D58-B6C8-4FF4-A90C-69B093F87F39}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D7E26787-6579-478F-9F2B-FA8E79C78AD2}"
+	ProjectSection(SolutionItems) = preProject
+		Document to Test GitHub Connection.txt = Document to Test GitHub Connection.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
